@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 0eea2eed2ada67d489badf26c4f31456
+timeCreated: 1539194169
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ColorTrail3_0
+    21300002: ColorTrail3_1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 20, y: 39, z: 31, w: 21}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ColorTrail3_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ColorTrail3_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 11.5, y: 19}
+      - {x: 8.5, y: 6}
+      - {x: 8.5, y: -42}
+      - {x: 16.5, y: -47}
+      - {x: 53.5, y: -47}
+      - {x: 68.5, y: -37}
+      - {x: 68.5, y: -1}
+      - {x: 41.5, y: 19}
+    - - {x: 27.5, y: 57}
+      - {x: 1.5, y: 67}
+      - {x: -53.5, y: 67}
+      - {x: -73.5, y: 61}
+      - {x: -79.5, y: 35}
+      - {x: -79.5, y: 0}
+      - {x: -53.5, y: -20}
+      - {x: -41.5, y: -20}
+      - {x: -36.5, y: -18}
+      - {x: 0.5, y: -14}
+      - {x: 24.5, y: 32}
+      - {x: 27.5, y: 38}
+    physicsShape:
+    - - {x: 67.5, y: -6}
+      - {x: 62.5, y: 0}
+      - {x: 38.5, y: 18}
+      - {x: 22.5, y: 18}
+      - {x: 15.5, y: 16}
+      - {x: 10.5, y: 3}
+      - {x: 9.5, y: -3}
+      - {x: 9.5, y: -22}
+      - {x: 14.5, y: -37}
+      - {x: 24.5, y: -36}
+      - {x: 33.5, y: -43}
+      - {x: 39.5, y: -46}
+      - {x: 51.5, y: -46}
+      - {x: 53.5, y: -36}
+      - {x: 64.5, y: -36}
+      - {x: 67.5, y: -30}
+    - - {x: 6.5, y: 4}
+      - {x: 7.5, y: 26}
+      - {x: 26.5, y: 39}
+      - {x: 26.5, y: 51}
+      - {x: 23.5, y: 60}
+      - {x: 5.5, y: 60}
+      - {x: -2.5, y: 55}
+      - {x: -11.5, y: 65}
+      - {x: -26.5, y: 65}
+      - {x: -36.5, y: 55}
+      - {x: -62.5, y: 53}
+      - {x: -67.5, y: 51}
+      - {x: -74.5, y: 43}
+      - {x: -75.5, y: 32}
+      - {x: -76.5, y: 25}
+      - {x: -76.5, y: 8}
+      - {x: -62.5, y: -9}
+      - {x: -51.5, y: -18}
+      - {x: -38.5, y: -18}
+      - {x: -21.5, y: 1}
+      - {x: -10.5, y: -4}
+      - {x: 0.5, y: -3}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

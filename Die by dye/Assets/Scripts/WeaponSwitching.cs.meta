@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd39b4ea49229054facd15df2a8dc14a
+timeCreated: 1537196290
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - KeyboardAllWhiteUp: {fileID: 21300000, guid: 6ea2c653a12d94545ba596ce61954ddd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

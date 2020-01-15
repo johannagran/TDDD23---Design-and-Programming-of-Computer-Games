@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - EnemyGreen
+  - EnemyOrange
+  - EnemyBlue
+  - EnemyPurple
+  - Health
+  - EnemyGreen
+  - Enviroment
+  - Enemy
+  - Boss
+  - Keyboard
+  - Music
+  - Trail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - Boss
+  - EnemyGreen
+  - EnemyOrange
+  - EnemyBlue
+  - EnemyPurple
+  - Weapon
+  - Player
+  - Environment
+  - Trail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3974351903
+    locked: 0
+  - name: Trail
+    uniqueID: 31500041
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weapon
+    uniqueID: 2347444731
+    locked: 0
+  - name: Characters
+    uniqueID: 2825583549
+    locked: 0
+  - name: Special trees
+    uniqueID: 4268334057
+    locked: 0
+  - name: Boss
+    uniqueID: 3253636703
+    locked: 0
+  - name: TreeFrame
+    uniqueID: 2814703821
+    locked: 0
+  - name: Cursor
+    uniqueID: 3683635091
+    locked: 0
+  - name: Foreground
+    uniqueID: 2379632879
+    locked: 0
